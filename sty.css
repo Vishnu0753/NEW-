@@ -1,0 +1,97 @@
+h1{
+font-size: 50px;
+color: crimson;
+}
+h2{
+    color: deepskyblue;
+}
+body{
+    font-size: 20px;
+    background-image: url(img/bg.jpg);
+    background-repeat: round;
+}
+.gta{
+    height: 80px;
+    width: 80px;
+    padding-left: 50%;
+} 
+.cp{
+    height: 80px;
+    width: 150px;
+    padding-left: 50%;
+}
+.valo{
+    height: 80px;
+    width: 80px;
+    padding-left: 50%;
+}
+.coc{
+    height: 80px;
+    width: 140px;
+    padding-left: 50%;
+}
+.PUBG{
+    height: 80px;
+    width: 150px;
+    padding-left: 50%;
+}  
+p{
+    font-weight: bold;
+    color: floralwhite;
+}
+p:hover{
+    color: blueviolet;
+   }
+button{
+    background-color: black;
+    color: rgb(0, 136, 255);
+    border-radius: 10px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+}
+
+.gta:hover {
+
+    width: 150px;
+    height: 150px;
+    background-color: transparent;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.valo:hover {
+
+    width: 150px;
+    height: 150px;
+    background-color: transparent;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.coc:hover {
+
+    width: 200px;
+    height: 150px;
+    background-color: transparent;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.cp:hover {
+
+    width: 200px;
+    height: 150px;
+    background-color: transparent;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.PUBG:hover {
+    width: 250px;
+    height: 150px;
+    background-color: transparent;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+
+
